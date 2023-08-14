@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sage-archway-395510",
+  "private_key_id": "0e06c605123333aeffc200b76ecfb97e6bbd0665",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTGvxabnD5bGhL\n7HrEZh0ashFM7DSV0Dy4SjcnSQ8e6LwUAzk1ABoNfKzdsU3Njq5vQxBo0BuSZwfj\nNYYSw8oXEIihib+an/rkbb8CAB4/EQPqAgJGtr1Hu6jwdOTsn3o+7rIcYfBUhrjm\nUYLMV0PQwAiEDRKqe5lMeqM43GpQVbxku/4pEE5rBfkrTx+bVNEFCdCDwexFkHwo\nu9ic0ojw9NbYzWHJBMOcgkhKoLGwwf7sFpc1i+0caBHnG0ykCMHHUPJGojq0CzKw\nOFgkHXwg0UpwWwC0Dx7lvyElohh6yQ9estkEgXhYWKaVd7IuVJ2KmL0+B+CrUrI2\nARyMBayhAgMBAAECggEAHahB4ZZ4aqIPOPNc//B0kEaJ5auda5qYnS9X9j3uUOJT\nYeBeDhMYleJ5CqAZFRLBcMIUMRVjejrdQc9IKaS15G2fNEp8z4VAIw1D80z+8s86\nJIrptPOBPe2gOz/A1XlGHEc+YHxl3gobOcgjvv9XeKEx0RNhFvBMRhFIkvlsOiK/\n8z8AaTZN/4/lQvC711mLSGy2sJzgYb34gMqgv1QKzhCw9dnqB6l89YzJwey1OuK5\ngRGtm/7XAHtt3NPi6yHtiZ5PNeVV4OGooUcpM0zSgJGSxic3WGGoMFoq8tkt4K0K\nV96wXF6zVyoxgatQ2460S67TOjENILFu5EwFySdTzQKBgQDzze9Doo7aEgJWQEHL\n3R/9ljbDxXp8j5Sy9VfCCDQxp9S0Nas3xs7R/2jD4zCD9oevtEgDkkiKWqeSy16V\nBFnKYa3SD2hkaKKvDGL8ncsEXUbveKWCb+j6EDtTUm9kbSt7Hxiz3ouUOCmj5eg2\nuNmzFLipeyFj/5HEfCt7aUqj0wKBgQDdqlHzml3GYD8Wl1v+S85f/NojCKQ4uSva\nld9VHXPS0el4WEIdghlX0tNplI17EHO+XCu0UU9CMDV9dfF/g0yEr73Z5C9qoLoG\nKHgAyM2X83lbZG0vwZrTSCwnjRIKR8IH5EMU2ltxWcfV5VcUR0CySKIhW4OMVQrR\nX1TyJ4KJOwKBgQCDsB1ns/tjMM0QV37ypcrsx2FnV1h0xX01OK4hQRsoIxYSDNch\ntoHqDgJBpIqFDPl3X3Jyc2Y5TQQslyrMZOA3H5Gq3+WsLpSI5rDk8DpDbjqtiMYl\ncVsvDutscx916D3PMBnAthlAgyGCxOEsBaaZQz0HVlnP0LCkp8k4zMOjPwKBgG4V\nXtuvBvE07T/n7WzN8vDinuaVLRFqjKfilGYt2U6SpvL4SeVjrfhaoFmnx9edJQ4d\nsiq70rPZQ0dKYqPj7gVbTdq/Ivk+VwQl5urkzo2vAc7sgfkcmiphhmQiABqQ5oCK\n0PGzO4SAhOjqG6PbevrPbY1JaHwx48x1Href/YjvAoGAEYjcdQyC/ZM96EgYPAOf\n3qUNp69FVpbHZ6dY6orlwyFJxXVG2x0dhYKpAAD6Ixptn9arBFoQ7SlZI2RkjZD3\n+YWerXCOg61QWJDkJxmKZMCOs1rIdjVx6VULxsl+92wdzYT7Dkm56c7UJ+qKRXyK\nw4IqaSpqjv3La9h8F4vmNRc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheet-api@sage-archway-395510.iam.gserviceaccount.com",
+  "client_id": "104951284165099014807",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheet-api%40sage-archway-395510.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
